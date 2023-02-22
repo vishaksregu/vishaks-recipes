@@ -56,3 +56,23 @@ ol.homepage-list a:link{
     color:white;
     text-align:center;
   }
+
+  p.recipe-back a:link{
+    background-color: #28104e;
+    color: white;
+    padding: 5px 5px;
+    font-size: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  p.recipe-back a:visited {
+    background-color: green;
+    color: black;
+    font-size:10px;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
